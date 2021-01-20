@@ -8,4 +8,4 @@ This repository provides a practice .Rmd file to knit (render).
 4. Clone a copy of your fork to your local machine and open it as New Project, in RStudio. Hint: See section 12.3 in the tutorial.
 5. In RStudio, edit the practice.Rmd to have your name as the author and a better title, save the changes, and stage the changes with git. (1pt)
 6. In RStudio, knit (render) the Rmarkdown document, then add that HTML or PDF file with git (1pt).
-Commit the staged files (be sure to provide a concise, yet informative commit message), then push the changes to your GitHub repository.
+7. Commit the staged files (be sure to provide a concise, yet informative commit message), then push the changes to your GitHub repository.
